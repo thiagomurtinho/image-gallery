@@ -3,7 +3,7 @@
 This is an example of my application stack using Next.js, Supabase, TailwindCSS, and deployed on Vercel. I have been studying these technologies to create web applications.
 
 ## Demo
-- [🚀 Go to site](https://*.vercel.app)
+- [🚀 Go to site](https://image-gallery-umber.vercel.app)
 
 ## Run on Vercel
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fthiagomurtinho%2Fimage-gallery)
