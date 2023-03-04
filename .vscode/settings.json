@@ -1,0 +1,20 @@
+{
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.eol": "\n",
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "conventionalCommits.emojiFormat": "emoji",
+  "conventionalCommits.lineBreak": "\n",
+"conventionalCommits.showEditor": true,
+"typescript.tsdk": "node_modules\\typescript\\lib",
+
+}

@@ -1,0 +1,12 @@
+{
+  "extends": [
+      "next",
+      "prettier",
+      "plugin:prettier/recommended",
+      "plugin:tailwindcss/recommended"
+  ],
+  "plugins": [
+      "prettier",
+      "tailwindcss"
+  ]
+}
