@@ -7,11 +7,11 @@ interface Props {
   images: TImage[]
 }
 export async function getStaticProps() {
-  const { data } = await supabase.from('images').select('*').order('id')
+  const { data: images } = await supabase.from('images').select('*').order('id')
 
   return {
     props: {
-      images: data
+      images
     }
   }
 }
